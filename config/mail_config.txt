@@ -1,0 +1,9 @@
+[send]
+password = ionnbequthurcaef
+email_host = smtp.qq.com
+send_user = 277625073@qq.com
+
+[receiver]
+user_list = 1210144839@qq.com,cuihanbin@jinghang.ai
+sub = 接口自动化测试报告
+content = 各位大佬好，请查看接口自动化测试报告，如果有接口遗漏、变更或者其他问题请联系我。接口自动化测试结果:见附件
